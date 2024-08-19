@@ -10,7 +10,7 @@ A user-friendly Python prompt to create reminders using Task Scheduler.
 
 ## Project Overview
 **Objective:**  
-TSreminders is a Python-based tool that prompts users for input (username, reminder message, and reminder frequency) and converts this information into a Batch or Powershell command string. This command can be used to create a Task Scheduler task that sends custom reminders to users on a local Windows machine.  Optionally, the tool will automatically implement the string.
+TSreminders is a Python-based tool that prompts users for input (username, reminder message, and reminder frequency) and converts this information into a Batch or Powershell command string. This command can be used to create a Task Scheduler task that sends custom reminders to users on a local Windows machine.  Optionally, the tool will implement the string for the user.
 
 ## Features
 User Input Prompts: Asks for the username, reminder message, and reminder frequency.

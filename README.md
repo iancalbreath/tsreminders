@@ -4,9 +4,7 @@ A user-friendly Python prompt to create reminders using Task Scheduler.
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Design & Architecture](#design--architecture)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
@@ -19,16 +17,6 @@ User Input Prompts: Asks for the username, reminder message, and reminder freque
 Command Generation: Converts input into a Batch or Powershell string.
 Task Scheduler Integration: Option to automatically create a scheduled task.
 Error Handling: Ensures that inputs are validated and handled gracefully.
-
-## Installation
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/TSreminders.git
-```
-Navigate to the project directory:
-```bash
-cd TSreminders
-```
 
 ## Usage
 Run the program:

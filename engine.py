@@ -1,5 +1,8 @@
 # Ian Calbreath
 # Creating the .batch file that sends the reminder message + the cmd string + printing
+
+# NEED TO ADD FREQUENCY SETTINGS (EVERY 15 MINUTES, ETC.)
+
 import os
 import re
 import subprocess

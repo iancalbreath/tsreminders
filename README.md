@@ -29,11 +29,6 @@ Navigate to the project directory:
 ```bash
 cd TSreminders
 ```
-Install required dependencies (if any):
-```bash
-pip install -r requirements.txt
-```
-(Note: Adjust the above command based on your project's dependencies.)
 
 ## Usage
 Run the program:
@@ -59,10 +54,6 @@ Validation: Ensures that all inputs are correct and formatted properly.
 Command Generation: Converts the validated input into a Task Scheduler-compatible command string.
 Execution (Optional): Provides the user with the command string or sets up the task automatically.
 
-### Components
-tsreminders.py: The main script that handles user input, validation, and command generation.
-utils.py: (If applicable) A module containing helper functions for input validation and command string creation.
-tests/: (If applicable) Directory containing unit tests for the program’s components.
 
 ## Contribution Guidelines
 We welcome contributions from the community! To contribute:
